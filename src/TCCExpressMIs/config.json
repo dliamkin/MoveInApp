@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings":  {
+    "MS_TableConnectionString": "Server=tcp:azuredb.database.windows.net,1433;Initial Catalog=MyDB;User ID=myUserID;Password=myPassword;MultipleActiveResultSets=False;Encrypt=True;Connection Timeout=300;"
+  }
+}
